@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mertd\\Desktop\\BitirmeProje\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mertd\\.gradle\\caches\\transforms-1\\files-1.1\\android-crop-1.0.1.aar\\73f9a79fbe12663720ca4c0b9dfa414f\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "171",
+                        "endColumns": "47",
+                        "endOffsets": "214"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endColumns": "47",
+                        "endOffsets": "307"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mertd\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\89e5af525cba124462faccc0ce48e3aa\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
