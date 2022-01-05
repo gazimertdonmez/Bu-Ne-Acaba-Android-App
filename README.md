@@ -1,4 +1,4 @@
-An image classification application developed for visually impaired people.
+-# An image classification application developed for visually impaired people.
 
 A pre trained tensorflow lite model was used for determination.
 
